@@ -1,6 +1,6 @@
 # Surface Statistics Analysis
 
-This project provides a tool for visualizing and analyzing surface statistics data related to my internship at Toyota Racing Development for motorsport applications. The code uses Streamlit for building an interactive dashboard that allows users to explore univariate and bivariate relationships between surface characteristics.
+This project provides a tool for visualizing and analyzing surface statistics data related to my internship at Toyota Racing Development (TRD) for motorsport applications. The code uses Streamlit for building an interactive dashboard that allows users to explore univariate and bivariate relationships between surface characteristics.
 
 ### Features
 - **Bivariate Analysis**: Visualizes relationships between selected surface metrics using scatter plots with adjustable axis ranges.
